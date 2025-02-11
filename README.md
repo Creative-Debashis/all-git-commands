@@ -1,2 +1,4 @@
 # all-git-commands
-All git command here.
+All git command here. 
+<br>
+Author: Debashis Sahoo
